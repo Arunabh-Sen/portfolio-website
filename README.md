@@ -8,19 +8,4 @@ https://arunabh-sen-portfolio.netlify.app/
 ## Tech Stack  
 - React  
 - Tailwind CSS  
-- Framer Motion  
-
-## Installation  
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repo.git
-
-Navigate to the project folder:
-cd your-repo
-
-Install dependencies:
-npm install
-
-Start the development server:
-npm run dev
-
-# This portfolio is deployed using GitHub Pages / Vercel / Netlify.
+- Framer Motion 
